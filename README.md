@@ -12,6 +12,7 @@ Neste perfil, reúno projetos práticos e estudos de programação. Os projetos 
 | [Vexel — gestão de veículos](https://github.com/lucaslusni/CBTDWEA---vexel) | Cadastro e gestão de veículos, relatórios e login integrado ao Firebase | Angular, TypeScript, Node.js, Express, Firebase Auth e Firestore |
 | [Concorrência em Node.js](https://github.com/lucaslusni/Sistemas-Operacionais-ADS371) | Compara processamento sequencial e paralelo e explora sincronização na escrita de arquivos | JavaScript, Node.js, Express e worker_threads |
 | [Monsten — catálogo e votação](https://github.com/lucaslusni/Desafio_Monsten) | Cadastro de filmes e séries, votação e persistência local no navegador | JavaScript, HTML, CSS e localStorage |
+| [Controle de Acervo Racnegê](https://github.com/lucaslusni/Tcc-Controle-acervo-racnege) | Sistema full stack para livros, exemplares, empréstimos, devoluções e lista de espera | React, TypeScript, Fastify, Prisma, PostgreSQL e JWT |
 
 ## Tecnologias
 
